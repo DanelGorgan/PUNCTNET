@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DataLayer
 {
-    class PoiContext : DbContext
+    public class PoiContext : DbContext
     {
         public PoiContext()
         {
@@ -16,6 +16,6 @@ namespace DataLayer
             Database.EnsureCreated();
         }
 
-        public DbSet<City> Cities { get; set; }
+        public DbSet<Poi> Pois { get; set; }
     }
 }

@@ -9,3 +9,15 @@ C:\Users\Gabi\Documents\GitHub\PUNCTNET\lab7\DataLayer\obj\Debug\netcoreapp2.1\B
 C:\Users\Gabi\Documents\GitHub\PUNCTNET\lab7\DataLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfoInputs.cache
 C:\Users\Gabi\Documents\GitHub\PUNCTNET\lab7\DataLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfo.cs
 C:\Users\Gabi\Documents\GitHub\PUNCTNET\lab7\DataLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CopyComplete
+C:\Users\Gabi\Documents\GitHub\copy\lab7\DataLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Gabi\Documents\GitHub\copy\lab7\DataLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Documents\GitHub\copy\lab7\DataLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Gabi\Documents\GitHub\copy\lab7\DataLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\Gabi\Documents\GitHub\copy\lab7\DataLayer\bin\Debug\netcoreapp2.1\BusinessLayer.deps.json
+C:\Users\Gabi\Documents\GitHub\copy\lab7\DataLayer\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\Gabi\Documents\GitHub\copy\lab7\DataLayer\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+C:\Users\Gabi\Documents\GitHub\copy\lab7\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\Gabi\Documents\GitHub\copy\lab7\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\Gabi\Documents\GitHub\copy\lab7\DataLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CopyComplete
+C:\Users\Gabi\Documents\GitHub\copy\lab7\DataLayer\obj\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\Gabi\Documents\GitHub\copy\lab7\DataLayer\obj\Debug\netcoreapp2.1\BusinessLayer.pdb

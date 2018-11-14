@@ -7,7 +7,7 @@ namespace BusinessLayer
 {
     public interface IPoiRepository
     {
-        void Create(PoiRepository poi);
+        void Create(Poi poi);
         IReadOnlyList<Poi> GetAll();
         Poi GetById(Guid id);
         void RemovePoiById(Guid id);

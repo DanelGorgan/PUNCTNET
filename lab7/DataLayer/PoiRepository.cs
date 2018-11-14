@@ -21,12 +21,7 @@ namespace BusinessLayer
                 _context.SaveChanges();
             }
 
-        public void Create(PoiRepository poi)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IReadOnlyList<Poi> GetAll()
+            public IReadOnlyList<Poi> GetAll()
             {
                 return _context.Pois.ToList();
             }
