@@ -1,10 +1,16 @@
-﻿using System;
+﻿using DataLayer;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace BusinessLayer
 {
-    class IPoiRepository
+    public interface IPoiRepository
     {
+        void Create(PoiRepository poi);
+        IReadOnlyList<Poi> GetAll();
+        Poi GetById(Guid id);
+        void RemovePoiById(Guid id);
+        void Update(Poi poi);
     }
 }
