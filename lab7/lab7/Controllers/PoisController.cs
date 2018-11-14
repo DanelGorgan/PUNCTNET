@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 using BusinessLayer;
 using DataLayer;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ServiceLayer.Controllers
@@ -26,7 +24,7 @@ namespace ServiceLayer.Controllers
             return _repository.GetAll().ToList();
         }
 
-        [HttpGet("{id}", Name = "GetById")]
+        [HttpGet("{id}", Name = "GetById1")]
         public ActionResult<Poi> Get(Guid id)
         {
             return Ok(this._repository.GetById(id));
@@ -42,7 +40,7 @@ namespace ServiceLayer.Controllers
 
             this._repository.Create(poi);
 
-            return CreatedAtRoute("GetById", new { id = poi.Id }, poi);
+            return CreatedAtRoute("GetById1", new { id = poi.Id }, poi);
         }
     }
 }
