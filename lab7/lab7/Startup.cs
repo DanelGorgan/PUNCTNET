@@ -1,4 +1,5 @@
-﻿using DataLayer;
+﻿using BusinessLayer;
+using DataLayer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -23,6 +24,7 @@ namespace ServiceLayer
             services.AddDbContext<CityContext>(options => options.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=Cities;Trusted_Connection=True;"));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddTransient<ICityRepository, CityRepository>();
+            services.AddTransient<IPoiRepository, PoiRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
