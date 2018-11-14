@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace lab7
+namespace ServiceLayer
 {
     public class Program
     {

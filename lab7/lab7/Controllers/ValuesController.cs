@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 
-namespace lab7.Controllers
+namespace ServiceLayer.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

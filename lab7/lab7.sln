@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab7", "lab7\lab7.csproj", "{3462FBCD-81B7-4254-966C-A4DE9CE61F30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceLayer", "lab7\ServiceLayer.csproj", "{3462FBCD-81B7-4254-966C-A4DE9CE61F30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s", "DataLayer\s.csproj", "{DFAD4076-E631-49C6-ABE3-30B5171A7359}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "DataLayer\BusinessLayer.csproj", "{DFAD4076-E631-49C6-ABE3-30B5171A7359}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "BusinessLayer\DataLayer.csproj", "{11126A4D-177A-4B59-B1A0-05B1EDF90855}"
 EndProject

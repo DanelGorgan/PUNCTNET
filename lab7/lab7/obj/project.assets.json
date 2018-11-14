@@ -11507,9 +11507,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabi\\Documents\\GitHub\\PUNCTNET\\lab7\\lab7\\lab7.csproj",
-      "projectName": "lab7",
-      "projectPath": "C:\\Users\\Gabi\\Documents\\GitHub\\PUNCTNET\\lab7\\lab7\\lab7.csproj",
+      "projectUniqueName": "C:\\Users\\Gabi\\Documents\\GitHub\\PUNCTNET\\lab7\\lab7\\ServiceLayer.csproj",
+      "projectName": "ServiceLayer",
+      "projectPath": "C:\\Users\\Gabi\\Documents\\GitHub\\PUNCTNET\\lab7\\lab7\\ServiceLayer.csproj",
       "packagesPath": "C:\\Users\\Gabi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Gabi\\Documents\\GitHub\\PUNCTNET\\lab7\\lab7\\obj\\",
       "projectStyle": "PackageReference",
