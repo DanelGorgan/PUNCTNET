@@ -5170,7 +5170,7 @@
       ]
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.2": {
-      "sha512": "ab4+TZw3Sxqrr5TwrwVyABeQkhSxYMJXgG6yZw7T+r6Vz+hcOt+pK79o15ESG7kZvWAK9wRG7emnTIia5O6R1Q==",
+      "sha512": "sa/cztXesLyTgCiYuef0RK2EAImnak0w2wrjCh/YBTvbn4iV2eTy0q3F8CyUkGiaYEyxUKGVTko6+7SMRBL4Gg==",
       "type": "package",
       "path": "microsoft.aspnetcore.razor.design/2.1.2",
       "files": [
@@ -11501,23 +11501,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gabi\\.nuget\\packages\\": {},
+    "C:\\Users\\vlady\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabi\\Documents\\GitHub\\PUNCTNET\\lab7\\lab7\\ServiceLayer.csproj",
+      "projectUniqueName": "C:\\Users\\vlady\\OneDrive\\Documents\\GitHub\\TW\\PUNCTNET\\lab7\\lab7\\ServiceLayer.csproj",
       "projectName": "ServiceLayer",
-      "projectPath": "C:\\Users\\Gabi\\Documents\\GitHub\\PUNCTNET\\lab7\\lab7\\ServiceLayer.csproj",
-      "packagesPath": "C:\\Users\\Gabi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabi\\Documents\\GitHub\\PUNCTNET\\lab7\\lab7\\obj\\",
+      "projectPath": "C:\\Users\\vlady\\OneDrive\\Documents\\GitHub\\TW\\PUNCTNET\\lab7\\lab7\\ServiceLayer.csproj",
+      "packagesPath": "C:\\Users\\vlady\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vlady\\OneDrive\\Documents\\GitHub\\TW\\PUNCTNET\\lab7\\lab7\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Gabi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vlady\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -10,3 +10,12 @@ C:\Users\Gabi\Documents\GitHub\PUNCTNET\lab7\BusinessLayer\obj\Debug\netcoreapp2
 C:\Users\Gabi\Documents\GitHub\PUNCTNET\lab7\BusinessLayer\obj\Debug\netcoreapp2.1\DataLayer.csproj.CopyComplete
 C:\Users\Gabi\Documents\GitHub\PUNCTNET\lab7\BusinessLayer\obj\Debug\netcoreapp2.1\DataLayer.dll
 C:\Users\Gabi\Documents\GitHub\PUNCTNET\lab7\BusinessLayer\obj\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\vlady\OneDrive\Documents\GitHub\TW\PUNCTNET\lab7\BusinessLayer\bin\Debug\netcoreapp2.1\DataLayer.deps.json
+C:\Users\vlady\OneDrive\Documents\GitHub\TW\PUNCTNET\lab7\BusinessLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\vlady\OneDrive\Documents\GitHub\TW\PUNCTNET\lab7\BusinessLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\vlady\OneDrive\Documents\GitHub\TW\PUNCTNET\lab7\BusinessLayer\obj\Debug\netcoreapp2.1\DataLayer.csprojAssemblyReference.cache
+C:\Users\vlady\OneDrive\Documents\GitHub\TW\PUNCTNET\lab7\BusinessLayer\obj\Debug\netcoreapp2.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\vlady\OneDrive\Documents\GitHub\TW\PUNCTNET\lab7\BusinessLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\vlady\OneDrive\Documents\GitHub\TW\PUNCTNET\lab7\BusinessLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfo.cs
+C:\Users\vlady\OneDrive\Documents\GitHub\TW\PUNCTNET\lab7\BusinessLayer\obj\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\vlady\OneDrive\Documents\GitHub\TW\PUNCTNET\lab7\BusinessLayer\obj\Debug\netcoreapp2.1\DataLayer.pdb
